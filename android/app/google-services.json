@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "566212589131",
+    "project_id": "weet-project",
+    "storage_bucket": "weet-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566212589131:android:5ca1c4b2edbf5e9990bfce",
+        "android_client_info": {
+          "package_name": "com.mycompany.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566212589131-8pr1i38vi32s5paifg37tlvbrneq28g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxu1qUe4CtOahbzXRJlDc65GTTVOiO6PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566212589131-8pr1i38vi32s5paifg37tlvbrneq28g5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566212589131-8vot4rh4jhnfpahcpk7aj4c8chf8c83h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
